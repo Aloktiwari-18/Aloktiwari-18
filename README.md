@@ -12,22 +12,6 @@ B.Tech CSE (AI & ML) Student | AI Engineer Enthusiast | Machine Learning | Deep 
 
 ---
 
-# 👁 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aloktiwari-18&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aloktiwari-18&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 🚀 Competitive Programming
 
 <p align="center">
