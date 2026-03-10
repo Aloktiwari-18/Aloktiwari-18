@@ -1,6 +1,6 @@
 <!-- ======================== HEADER ======================== -->
 
-<h1 align="center">Hi 👋, I'm Alok Tiwari</h1>
+<h1 align="center">Hi, I'm Alok Tiwari</h1>
 
 <h3 align="center">
 B.Tech CSE (AI & ML) Student | AI Engineer Enthusiast | Machine Learning | Deep Learning | Generative AI | MERN Stack Developer
