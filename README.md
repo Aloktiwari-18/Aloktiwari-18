@@ -1,14 +1,26 @@
-<!-- ======================== HEADER ======================== -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Alok Tiwari</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:2c5364,100:00c6ff&text=Alok%20Tiwari&fontAlign=50&fontAlignY=38&fontSize=60&desc=CSE%20(AI%20%26%20ML)%20Student%20|%20AI%20Engineer%20Enthusiast%20|%20MERN%20Developer&descAlignY=62"/>
 
-<h3 align="center">
-B.Tech CSE (AI & ML) Student | AI Engineer Enthusiast | Machine Learning | Deep Learning | Generative AI | MERN Stack Developer
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=CSE+(AI+%26+ML)+Student;AI+Engineer+Enthusiast;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+Developer;MERN+Stack+Developer;DSA+Enthusiast" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=CSE+(AI+%26+ML)+Student;AI+Engineer+Enthusiast;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+Developer;MERN+Stack+Developer;DSA+Enthusiast" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=aloktiwari-18&label=Profile%20Views&color=00c6ff&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 B.Tech CSE (AI & ML) Student  
+💡 Passionate about building **AI applications, ML models & full-stack systems**
+
+🚀 Currently focusing on:
+- Machine Learning  
+- Deep Learning  
+- Generative AI (RAG, LLMs)  
+- MERN Stack Development  
+- Data Structures & Algorithms (Java)
 
 ---
 
@@ -40,7 +52,7 @@ B.Tech CSE (AI & ML) Student | AI Engineer Enthusiast | Machine Learning | Deep 
 
 # 🧠 AI / ML Projects
 
-### 🎬 Movie Recommendation System (AI/ML)
+### 🎬 Movie Recommendation System
 • Content-based filtering using **KNN & Cosine Similarity**  
 • TMDB API Integration  
 • Built using **Python, Pandas, Scikit-Learn, Streamlit**
@@ -70,10 +82,9 @@ B.Tech CSE (AI & ML) Student | AI Engineer Enthusiast | Machine Learning | Deep 
 # 📈 DSA Progress
 
 ✔ Solving **LeetCode & GeeksforGeeks problems daily**  
-✔ Strong focus on **Data Structures & Algorithms**  
+✔ Strong focus on **Data Structures & Algorithms**
 
-Main Topics:
-
+### Topics Covered:
 • Arrays  
 • Strings  
 • Linked List  
@@ -156,4 +167,10 @@ Main Topics:
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2c5364&height=120&section=footer"/>
+
+</div>
