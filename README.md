@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<!-- HEADER -->
 <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Alok+Tiwari;AI+Engineer+%7C+MERN+Developer;Building+Scalable+AI+Systems" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=220&section=header&text=AI%20%7C%20ML%20%7C%20FULLSTACK&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
@@ -16,7 +15,6 @@
 <table>
 <tr>
 
-<!-- LEFT PANEL -->
 <td width="35%">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
@@ -46,11 +44,36 @@
 
 </td>
 
-<!-- RIGHT PANEL -->
 <td width="65%">
 
 ### ⚡ TECH STACK
+
 <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,tensorflow,pytorch&theme=dark" />
+
+<br>
+
+### 🤖 AI / AGENTIC STACK
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VectorDB-6C63FF?style=for-the-badge"/>
+</p>
+
+---
+
+### 🛠️ ADDITIONAL SKILLS
+
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-00F7FF?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -58,9 +81,10 @@
 
 | Project | Tech | Description |
 |--------|------|------------|
+| 🧠 ScoreLens AI | GenAI, LangChain | AI Answer Evaluation System |
+| 🤖 AI Chatbot (LangGraph) | LangGraph, RAG | Multi-Agent Conversational AI |
 | 🎬 Movie Recommender | Python, ML | KNN + Cosine Similarity |
 | ❤️ Heart Disease Predictor | ML | Random Forest + KNN |
-| 🤖 YouTube RAG Chatbot | LangChain | LLM + Vector DB |
 | 🌐 LocalPro | MERN | Full Stack Platform |
 
 ---
@@ -76,13 +100,13 @@
 ---
 
 ### 🧠 AI SKILL MAP
-Machine Learning ██████████ Advanced
-Deep Learning ███████░░░ Intermediate
-Generative AI ██████████ Advanced
-RAG Systems ██████████ Advanced
-MERN Stack ██████████ Advanced
-DSA █████████░ Strong
-
+Machine Learning ██████████ Advanced  
+Deep Learning ███████░░░ Intermediate  
+Generative AI ██████████ Advanced  
+RAG Systems ██████████ Advanced  
+Agentic AI █████████░ Advanced  
+MERN Stack ██████████ Advanced  
+DSA █████████░ Strong  
 
 ---
 
@@ -100,7 +124,7 @@ DSA █████████░ Strong
 ---
 
 ### 🐍 CONTRIBUTION SNAKE
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/aloktiwari-18/aloktiwari-18/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
