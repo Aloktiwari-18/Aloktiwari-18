@@ -150,23 +150,6 @@ DSA                  █████████░  Strong
 
 ---
 
-## 📈 GitHub Profile Summary
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aloktiwari-18&theme=2077" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aloktiwari-18&theme=2077" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aloktiwari-18&theme=2077" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aloktiwari-18&theme=2077" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aloktiwari-18&theme=2077"/>
-</p>
-
----
 
 ### 📊 Activity Graph
 
