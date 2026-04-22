@@ -1,10 +1,10 @@
-<!-- ================= 🧠 ULTRA ELITE AI README ================= -->
+<!-- ================= 🧠 ELITE AI README v2 ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=45&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Alok+Tiwari;AI+Engineer+%7C+Full+Stack+Developer;Building+Multi-Agent+AI+Systems;LLMs+%7C+RAG+%7C+Automation;Turning+Ideas+into+Scalable+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?size=44&duration=2200&color=0FF0FC&center=true&vCenter=true&width=1000&lines=Hi+I'm+Alok+Tiwari;AI+Engineer+%7C+System+Builder;Multi-Agent+AI+%7C+LLMs+%7C+RAG;Building+Scalable+Intelligent+Systems" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FF0FC,100:6C63FF&height=230&section=header&text=AI%20ENGINEER%20%7C%20SYSTEMS%20BUILDER&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FF0FC,100:6C63FF&height=220&section=header&text=AI%20ENGINEER%20%7C%20BUILDER&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -28,13 +28,13 @@
 
 ---
 
-## ⚡ CORE IDENTITY
+## ⚡ CORE VALUE
 
-```diff id="id01"
-+ I build AI systems, not just projects
-+ Focused on Multi-Agent Architectures
-+ Production-ready LLM Applications
-+ Strong DSA + System Thinking
+```diff id="core01"
++ Building AI systems, not demos
++ Multi-Agent Architectures
++ Production-ready LLM Apps
++ Strong DSA + Backend Thinking
 ```
 
 ---
@@ -50,12 +50,12 @@
 
 ---
 
-## 🧠 FOCUS AREAS
+## 🧠 SPECIALIZATION
 
-* 🤖 Multi-Agent AI Systems
-* 🧠 LLM Applications (LangChain / LangGraph)
+* 🤖 Multi-Agent Systems
+* 🧠 LLM Applications
 * 📚 RAG Pipelines
-* ⚡ Backend Systems (FastAPI, Node)
+* ⚡ Backend APIs (FastAPI / Node)
 
 </td>
 
@@ -90,41 +90,41 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS (SYSTEMS, NOT JUST APPS)
+## 🚀 FEATURED SYSTEMS
 
 ### 🤖 Multi-Agent AI Research System
 
-✔ Autonomous research workflow using multiple AI agents
-✔ Task decomposition + reasoning pipeline
-✔ End-to-end knowledge extraction
+✔ Autonomous agent collaboration
+✔ Task decomposition + reasoning
+✔ End-to-end research pipeline
 
 ---
 
-### 📊 Customer Churn Prediction System
+### 📊 Customer Churn Prediction
 
-✔ Random Forest ML model
-✔ Data preprocessing + feature engineering
-✔ Power BI dashboard for decision making
-
----
-
-### 💬 Chatbot using LangGraph
-
-✔ Graph-based multi-agent system
-✔ Context-aware RAG pipeline
-✔ Modular architecture
+✔ Random Forest + ML pipeline
+✔ Feature engineering + preprocessing
+✔ Business insights via Power BI
 
 ---
 
-### 🎬 Cinevia – Movie Booking App
+### 💬 LangGraph AI Chatbot
 
-✔ MERN Stack full system
-✔ Authentication + booking engine
-✔ Scalable backend
+✔ Multi-agent conversational system
+✔ RAG-powered responses
+✔ Modular + scalable design
 
 ---
 
-## 📈 PERFORMANCE & CODING
+### 🎬 Cinevia Booking Platform
+
+✔ MERN full-stack architecture
+✔ Auth + booking workflow
+✔ Real-time UI interaction
+
+---
+
+## 📈 CODING PROFILE
 
 <img src="https://leetcard.jacoblin.cool/aloktiwari18?theme=dark&font=Nunito&ext=heatmap" />
 
@@ -132,7 +132,7 @@
 
 ## 🧠 SKILL MATRIX
 
-```text id="id02"
+```text id="skill01"
 Multi-Agent AI       ██████████  Expert
 Generative AI        ██████████  Advanced
 RAG Systems          ██████████  Advanced
@@ -156,11 +156,11 @@ DSA                  █████████░  Strong
 
 ---
 
-## ⚡ PERSONAL BRAND
+## ⚡ PERSONAL STATEMENT
 
 <div align="center">
 
-💀 **"I design intelligent systems that think, adapt, and scale."**
+💀 **"I build intelligent systems that solve real-world problems."**
 
 🔥 Code. Build. Scale. Repeat.
 
@@ -175,4 +175,4 @@ DSA                  █████████░  Strong
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0FF0FC&height=160&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0FF0FC&height=150&section=footer"/>
