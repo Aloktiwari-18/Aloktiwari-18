@@ -136,8 +136,8 @@
 Multi-Agent AI       ██████████  Expert
 Generative AI        ██████████  Advanced
 RAG Systems          ██████████  Advanced
-Machine Learning     █████████░  Advanced
-MERN Stack           ██████████  Advanced
+Machine Learning     █████████░  Strong
+MERN Stack           ██████████  Intermediate
 DSA                  █████████░  Strong
 ```
 
