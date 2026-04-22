@@ -150,11 +150,38 @@ DSA                  █████████░  Strong
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 📈 GitHub Profile Summary
 
-<img src="https://raw.githubusercontent.com/aloktiwari-18/aloktiwari-18/output/github-contribution-grid-snake-dark.svg"/>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aloktiwari-18&theme=2077" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aloktiwari-18&theme=2077" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aloktiwari-18&theme=2077" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aloktiwari-18&theme=2077" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aloktiwari-18&theme=2077"/>
+</p>
 
 ---
+
+### 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aloktiwari-18&theme=tokyo-night&area=true" width="100%" />
+</div>
+
+---
+
+### 🔥 Contribution Stats
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=aloktiwari-18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
+
 
 ## ⚡ PERSONAL STATEMENT
 
